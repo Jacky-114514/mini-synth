@@ -1,0 +1,104 @@
+[
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/main.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/main.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/main.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/main.o"
+        ]
+    },
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/demo/Demo.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/demo/Demo.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/demo/Demo.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/demo/Demo.o"
+        ]
+    },
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/io/Playback.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/io/Playback.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/io/Playback.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/io/Playback.o"
+        ]
+    },
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/io/WavWriter.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/io/WavWriter.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/io/WavWriter.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/io/WavWriter.o"
+        ]
+    },
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/synth/Synth.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/synth/Synth.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/synth/Synth.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/synth/Synth.o"
+        ]
+    },
+    {
+        "directory": "/home/jacky/mini-synth",
+        "file": "/home/jacky/mini-synth/src/synth/Voice.cpp",
+        "output": "/home/jacky/mini-synth/build/obj/synth/Voice.o",
+        "arguments": [
+            "/usr/bin/g++",
+            "-Isrc",
+            "-std=c++17",
+            "-O2",
+            "-Wall",
+            "-Wextra",
+            "-c",
+            "/home/jacky/mini-synth/src/synth/Voice.cpp",
+            "-o",
+            "/home/jacky/mini-synth/build/obj/synth/Voice.o"
+        ]
+    }
+]
